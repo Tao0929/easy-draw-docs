@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.bc720011.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/20230207\u8BB0\u5F55.md"}'),l={name:"note/20230207\u8BB0\u5F55.md"},e=p("",1),o=[e];function c(t,C,A,i,r,y){return a(),n("div",null,o)}const q=s(l,[["render",c]]);export{u as __pageData,q as default};
